@@ -10,7 +10,6 @@ import { LoginComponent } from './views/login/login.component';
 import { HeroesModule } from './components/heroes/heroes.module';
 import { SidebarModule } from './views/admin-view/sidebar/sidebar.module';
 
-
 const ROUTES: Route[] = [
     { path: '', component: HomeComponent },
     { path: 'login', component: LoginComponent }
