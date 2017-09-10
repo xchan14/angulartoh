@@ -1,0 +1,18 @@
+
+
+.top-nav-bar {
+    background-color: #3273bc;
+    padding: 15px;
+}
+
+    h3 {
+        color: #ffffff;
+        margin: 0;
+        padding: 0;
+    }
+
+
+.nav-wrapper {
+    display: table-cell;
+    vertical-align: top;
+}
