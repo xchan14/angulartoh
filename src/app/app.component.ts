@@ -1,8 +1,6 @@
 import { Component } from '@angular/core';
 import { HeroService } from './components/heroes/hero.service';
 
-
-
 @Component({
   selector: 'app-root',
   templateUrl: 'app.html',
